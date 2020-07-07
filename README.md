@@ -117,7 +117,8 @@ It may take more than 20 minutes time to complete the installation. At the end o
 
 if you have forgotten to do the Prerequisite for Transformation advisor and installed the cloud pak for application and it is showing the error in TA. You can do the followings.
 
-1. Do the Prerequisite for Transformation advisor steps given in https://github.com/GandhiCloud/cp4a-install-v4/blob/master/TA-Prerequisite-install.md
+1. Do the Prerequisite for Transformation advisor steps given in [TA-Prerequisite-install ](TA-Prerequisite-install.md) 
+
 
 2. Continue the step `*5. Run the installer*`
 
